@@ -1,7 +1,6 @@
 ### Hello i am ariel!! 👋
 
-Web Developer
-Hello! I'm Juan Ariel Vivian, a passionate web developer with over 4 years of experience in the industry. I specialize in the following technologies:
+Hello! I'm a passionate web developer with over 4 years of experience in the industry. I specialize in the following technologies:
 
 JavaScript: As one of my strengths, I enjoy creating interactive and dynamic client-side experiences using frameworks like Vue.js, Angular, and some React.
 PHP: I have extensive experience in developing robust and scalable web applications using PHP in conjunction with frameworks such as Laravel.
